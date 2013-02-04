@@ -14,6 +14,8 @@
 if( !defined( 'MEDIAWIKI' ) )
 	die( -1 );
 
+require_once( dirname( dirname( __FILE__ ) ) . '/MonoBook.php' );
+
 /**
  * Inherit main code from SkinTemplate, set the CSS and template filter.
  * @todo document
