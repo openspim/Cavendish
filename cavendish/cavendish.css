@@ -636,7 +636,7 @@ div#header {
     margin-left: -4px;
     margin-right: -4px;
     font-size: 10px;
-    text-shadow: 0.1em 0.1em 0.1em gray;
+    text-shadow: 0.1em 0.1em 0.2em gray;
 }
 
 #pt-userpage a,#pt-mytalk a {
@@ -1519,7 +1519,7 @@ special external link styling */
     padding: 6px 10px;
     font-weight: bold;
     color: #666;
-    text-shadow: 0.1em 0.1em 0.1em gray;
+    text-shadow: 0.1em 0.1em 0.15em gray;
 }
 
 #nav div h5, #nav div h3 {
@@ -1527,7 +1527,7 @@ special external link styling */
     padding: 4px 10px;
     font-weight: bold;
     color: #666;
-    text-shadow: 0.1em 0.1em 0.1em gray;
+    text-shadow: 0.1em 0.1em 0.15em gray;
     font-size: 8.5pt;
 }
 
@@ -1600,7 +1600,7 @@ special external link styling */
     display: block;
     padding: 8px 10px;
     text-decoration: none;
-    text-shadow: 0.1em 0.1em 0.1em gray;
+    text-shadow: 0.1em 0.1em 0.15em gray;
     font-size: 8pt;
 }
 
